@@ -1,0 +1,14 @@
+body {
+    line-height: 20px;
+    background-color:beige;
+    margin: 50px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black;
+}
